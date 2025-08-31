@@ -43,11 +43,6 @@ El dataset contiene **5,574 mensajes** etiquetados como:
 - Varias capas densas con activación ReLU.
 - Salida softmax.
 
-### LSTM
-- Embedding de dimensión 128.
-- LSTM bidireccional con 64 unidades.
-- Salida softmax.
-
 ---
 
 ## Métricas de Evaluación
